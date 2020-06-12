@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components/Splash.qml</file>
+        <file>Components/HomePage.qml</file>
+        <file>ASSETS/Battery_F.png</file>
+        <file>Components/Buttons.qml</file>
+        <file>Components/MyRoom.qml</file>
+        <file>ASSETS/home1.png</file>
+        <file>Components/MyDevice.qml</file>
+        <file>Components/Controls.qml</file>
+        <file>ASSETS/left-solid.png</file>
+        <file>ASSETS/Kitchen.png</file>
+        <file>ASSETS/Bathroom.png</file>
+        <file>ASSETS/Bedroom.png</file>
+        <file>ASSETS/Dining.png</file>
+        <file>ASSETS/Living.png</file>
+        <file>ASSETS/Working.png</file>
+        <file>ASSETS/Lights.png</file>
+        <file>ASSETS/Conditioning.png</file>
+        <file>ASSETS/Speaker.png</file>
+        <file>ASSETS/Window.png</file>
+        <file>ASSETS/Alarm.png</file>
+        <file>ASSETS/Safety.png</file>
+        <file>ASSETS/right-solid.png</file>
+        <file>ASSETS/Ceiling_Light.png</file>
+        <file>ASSETS/Floor_Light.png</file>
+        <file>ASSETS/Pendent.png</file>
+        <file>ASSETS/Reading_lamp.png</file>
+        <file>ASSETS/Table_Lamp.png</file>
+        <file>ASSETS/Wall_Light.png</file>
+        <file>ASSETS/AC.png</file>
+        <file>ASSETS/Ceiling_Fan.png</file>
+        <file>ASSETS/Cooler.png</file>
+        <file>ASSETS/Heat_Pump.png</file>
+        <file>ASSETS/Table_FAn.png</file>
+        <file>ASSETS/Music.png</file>
+        <file>ASSETS/Radio.png</file>
+        <file>ASSETS/TV.png</file>
+    </qresource>
+</RCC>
